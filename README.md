@@ -1,2 +1,2 @@
-# SQL--Supply-Chain-Analysis
+# SQL-Supply-Chain-Analysis
 SQL Analysis using MYSQL
